@@ -1,0 +1,18 @@
+{
+  "name": "zk-merkle-airdrop",
+  "version": "1.0.0",
+  "description": "Expert-level Merkle Tree Airdrop System",
+  "main": "MerkleAirdrop.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "keywords": [
+    "airdrop",
+    "merkle-tree",
+    "solidity",
+    "web3",
+    "crypto"
+  ],
+  "author": "Nazrul",
+  "license": "MIT"
+}
